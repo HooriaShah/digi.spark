@@ -1,2 +1,0 @@
-# digi.spark
-DigitalMarketing
